@@ -37,7 +37,7 @@ Download the `u2net.pth` (173.6 MB) file from the [U-2-Net repository](https://g
 Move the downloaded `u2net.pth` file into the `saved_model` folder inside the U-2-Net repository:
 
 ```bash
-mv u2net.pth U-2-Net/saved_model/
+mv u2net.pth U-2-Net/saved_models/
 ```
 
 ## Step 7: Replace and Run `u2net_test.py`
